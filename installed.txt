@@ -1,0 +1,9 @@
+com.github.rmehri01.onenord
+com.villains.intelij.plugin.trashpandatheme
+com.fernandojimenez.mattecarbon.theme
+IdeaVIM
+org.intellij.plugins.postcss
+com.arcticicestudio.nord.jetbrains
+ru.adelf.idea.dotenv
+de.espend.idea.php.annotation
+fr.adrienbrault.idea.symfony2plugin
